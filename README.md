@@ -63,3 +63,39 @@ pandas
 scipy
 statistics
 matplotlib
+
+## 🚀 Usage
+
+### 1️⃣ Run the main workflow
+
+Execute the complete multi-order significance test process:
+
+```bash
+python main.py
+
+By default, the script performs 2nd–4th order significance tests and generates result files:
+
+2nd_order_SignificantRules_mo4_99%CI.csv
+3rd_order_SignificantRules_mo4_99%CI.csv
+4th_order_SignificantRules_mo4_99%CI.csv
+
+### 2️⃣ Optional Environment Variables
+
+You can adjust the number of iterations, trajectory count, and minimum support threshold when running the main script:
+
+```bash
+SIGTEST_ITER=30 TRAJ_NUM=1000 MIN_SUPPORT=5 N_PROCESSES=8 python main.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+

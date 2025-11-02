@@ -175,7 +175,7 @@ This research has been publicated in *Chaos, Solitons & Fractals* (Elsevier),
 
 ## 📚 BibTeX Citation 
 
-```bibtex
+```
 @article{li2025representing,
   title={Representing significant dependencies with variable orders in networks},
   author={Li, Jiaxu and Yuan, Xiaoqian and Fu, Yude and Li, Jichao and Tan, Wenhui and Lu, Xin},
@@ -185,7 +185,7 @@ This research has been publicated in *Chaos, Solitons & Fractals* (Elsevier),
   year={2025},
   publisher={Elsevier}
 }
-```bibtex
+```
 
 ## 📄 License
 

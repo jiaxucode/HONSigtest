@@ -164,17 +164,18 @@ HONSigtest is built upon the **Significant Dependencies with Variable Orders Min
 
 ## 📰 Publication
 
-This research has been **accepted for publication** in *Chaos, Solitons & Fractals* (Elsevier),  
+This research has been publicated in *Chaos, Solitons & Fractals* (Elsevier),  
 
 > **Li, Jiaxu**, Yuan, Xiaoqian, Fu, Yude, Li, Jichao, Tan, Wenhui, and Lu, Xin.  
 > *Representing Significant Dependencies with Variable Orders in Networks.*  
-> *Chaos, Solitons & Fractals* (2025), in press.  
-> DOI — forthcoming.
+> *Chaos, Solitons & Fractals* 201 (2025): 117405. 
+> DOI: 10.1016/j.chaos.2025.117405
 
 ---
 
 ## 📚 BibTeX Citation 
 
+```bibtex
 @article{li2025representing,
   title={Representing significant dependencies with variable orders in networks},
   author={Li, Jiaxu and Yuan, Xiaoqian and Fu, Yude and Li, Jichao and Tan, Wenhui and Lu, Xin},

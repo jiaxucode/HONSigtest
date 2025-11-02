@@ -185,6 +185,7 @@ This research has been publicated in *Chaos, Solitons & Fractals* (Elsevier),
   year={2025},
   publisher={Elsevier}
 }
+```bibtex
 
 ## 📄 License
 
